@@ -1,0 +1,6 @@
+{
+  "name": "VERIS — Verify Before You Trust",
+  "description": "AI-powered safety companion to evaluate suspicious financial messages, urgent payment requests, and fraudulent communications before acting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
